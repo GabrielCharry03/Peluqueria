@@ -545,7 +545,7 @@
                 <Component class="javax.swing.JLabel" name="jLabel30">
                   <Properties>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                      <Image iconType="2" name="C:\Users\gabri\Downloads\pelu2.jpg"/>
+                      <Image iconType="3" name="/com/mycompany/pelu2.jpg"/>
                     </Property>
                     <Property name="text" type="java.lang.String" value="jLabel30"/>
                   </Properties>
@@ -898,7 +898,7 @@
                 <Component class="javax.swing.JLabel" name="jLabel5">
                   <Properties>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                      <Image iconType="2" name="C:\Users\gabri\Downloads\pelu1.jpg"/>
+                      <Image iconType="3" name="/com/mycompany/pelu1.jpg"/>
                     </Property>
                     <Property name="text" type="java.lang.String" value="jLabel5"/>
                   </Properties>
@@ -1270,7 +1270,7 @@
                 <Component class="javax.swing.JLabel" name="jLabel4">
                   <Properties>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                      <Image iconType="2" name="C:\Users\gabri\Downloads\pelu3.jpg"/>
+                      <Image iconType="3" name="/com/mycompany/pelu3.jpg"/>
                     </Property>
                     <Property name="text" type="java.lang.String" value="jLabel4"/>
                   </Properties>
@@ -1414,9 +1414,9 @@
                           </Group>
                       </Group>
                       <EmptySpace type="separate" max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="3" attributes="0">
-                          <Component id="ls4" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
                           <Component id="jLabel28" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="ls4" min="-2" max="-2" attributes="0"/>
                       </Group>
                       <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="3" attributes="0">
@@ -1662,7 +1662,7 @@
                 <Component class="javax.swing.JLabel" name="jLabel31">
                   <Properties>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                      <Image iconType="2" name="C:\Users\gabri\Downloads\pelu4.jpg"/>
+                      <Image iconType="3" name="/com/mycompany/pelu4.jpg"/>
                     </Property>
                     <Property name="text" type="java.lang.String" value="jLabel31"/>
                   </Properties>

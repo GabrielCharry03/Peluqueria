@@ -316,7 +316,7 @@ public class PeluquerosGUI extends javax.swing.JFrame {
         jPanel8.setMinimumSize(new java.awt.Dimension(100, 100));
         jPanel8.setPreferredSize(new java.awt.Dimension(377, 207));
 
-        jLabel30.setIcon(new javax.swing.ImageIcon("C:\\Users\\gabri\\Downloads\\pelu2.jpg")); // NOI18N
+        jLabel30.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/pelu2.jpg"))); // NOI18N
         jLabel30.setText("jLabel30");
 
         javax.swing.GroupLayout jPanel8Layout = new javax.swing.GroupLayout(jPanel8);
@@ -528,7 +528,7 @@ public class PeluquerosGUI extends javax.swing.JFrame {
         jPanel6.setBackground(new java.awt.Color(255, 255, 255));
         jPanel6.setForeground(new java.awt.Color(51, 102, 255));
 
-        jLabel5.setIcon(new javax.swing.ImageIcon("C:\\Users\\gabri\\Downloads\\pelu1.jpg")); // NOI18N
+        jLabel5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/pelu1.jpg"))); // NOI18N
         jLabel5.setText("jLabel5");
 
         javax.swing.GroupLayout jPanel6Layout = new javax.swing.GroupLayout(jPanel6);
@@ -724,7 +724,7 @@ public class PeluquerosGUI extends javax.swing.JFrame {
         jPanel9.setForeground(new java.awt.Color(51, 102, 255));
         jPanel9.setPreferredSize(new java.awt.Dimension(377, 207));
 
-        jLabel4.setIcon(new javax.swing.ImageIcon("C:\\Users\\gabri\\Downloads\\pelu3.jpg")); // NOI18N
+        jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/pelu3.jpg"))); // NOI18N
         jLabel4.setText("jLabel4");
 
         javax.swing.GroupLayout jPanel9Layout = new javax.swing.GroupLayout(jPanel9);
@@ -949,7 +949,7 @@ public class PeluquerosGUI extends javax.swing.JFrame {
         jPanel10.setForeground(new java.awt.Color(51, 102, 255));
         jPanel10.setPreferredSize(new java.awt.Dimension(377, 207));
 
-        jLabel31.setIcon(new javax.swing.ImageIcon("C:\\Users\\gabri\\Downloads\\pelu4.jpg")); // NOI18N
+        jLabel31.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/pelu4.jpg"))); // NOI18N
         jLabel31.setText("jLabel31");
 
         javax.swing.GroupLayout jPanel10Layout = new javax.swing.GroupLayout(jPanel10);
@@ -1067,9 +1067,9 @@ public class PeluquerosGUI extends javax.swing.JFrame {
                         .addComponent(t16, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addComponent(l28)))
                 .addGap(18, 18, 18)
-                .addGroup(jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(ls4)
-                    .addComponent(jLabel28))
+                .addGroup(jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jLabel28)
+                    .addComponent(ls4))
                 .addGap(16, 16, 16)
                 .addGroup(jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(lr4)
